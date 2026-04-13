@@ -1,4 +1,4 @@
-package com.example.MiniQuiz;
+package com.example.miniquiz;
 
 public class Question {
     private String questionText;
