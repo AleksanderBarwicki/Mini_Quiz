@@ -26,8 +26,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
-        // Inicjalizacja widoków
         tvQuestion = findViewById(R.id.tvQuestion);
         tvScore = findViewById(R.id.tvScore);
         btnStart = findViewById(R.id.btnStart);
@@ -66,8 +64,6 @@ public class MainActivity extends AppCompatActivity {
         score = 0;
         currentQuestionIndex = 0;
         tvScore.setText("Wynik: 0");
-
-        // Losowanie 5 pytań
         Collections.shuffle(allQuestions);
         selectedQuestions = new ArrayList<>(allQuestions.subList(0, 5));
 
