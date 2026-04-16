@@ -13,7 +13,6 @@ Aleksander Barwicki
 4. Uruchom aplikację na emulatorze (np. Pixel 5, API 33) lub urządzeniu fizycznym za pomocą przycisku "Run".
  
 ### Zrzuty ekranu
-*(Tutaj wstaw linki do obrazków z folderu /images w repozytorium)*
 1. **Stan początkowy:**<img width="546" height="955" alt="image" src="https://github.com/user-attachments/assets/7fb740c7-5932-4d3d-888f-f61b5e6140f8" />
 
 2. **W trakcie pytania:** <img width="539" height="964" alt="image" src="https://github.com/user-attachments/assets/4d5f3320-e381-4674-b30b-659bc61f6e12" />
